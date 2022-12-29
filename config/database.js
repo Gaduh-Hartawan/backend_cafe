@@ -1,10 +1,10 @@
 import mysql from "mysql";
 
 const db = mysql.createConnection({
-  host: "https://cafe-app-pam.cyclic.app",
-  user: "root",
-  password: "",
-  database: "uaspam",
+  host: "sql6.freesqldatabase.com",
+  user: "sql6587090",
+  password: "1qtTDajID5",
+  database: "sql6587090",
   multipleStatements: true,
 });
 
