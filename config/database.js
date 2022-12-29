@@ -1,7 +1,7 @@
 import mysql from "mysql";
 
 const db = mysql.createConnection({
-  host: "localhost",
+  host: "https://thoughtful-jade-sawfish.cyclic.app",
   user: "root",
   password: "",
   database: "uaspam",
